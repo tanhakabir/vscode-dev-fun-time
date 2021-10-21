@@ -23,6 +23,7 @@ This whole slideshow is on vscode.dev right now!
 
 | Normal extension | Web extension |
 |--------------|-----------|
+| Same with no code/no `main` | Same with no code/no `main` |
 | Can be bundled or not.  | Needs to be bundled into 1 JavaScript file. |
 | Has a `main` in its `package.json` | Has `browser` in its `package.json` |
 | Can use node libraries like `fs` or `path` | Needs web compliant alternatives like `path-browserify` |
